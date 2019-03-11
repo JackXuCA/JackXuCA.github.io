@@ -1,0 +1,17 @@
+/*h1 {
+	color: #bce111;
+	font-size: 60px;
+	font-family: cursive;
+	text-align: center;
+*/
+
+.header {
+	color:green;
+	font-size: 50px;
+	font-family: Arial;
+}
+
+#header3 {
+	color:red;
+	font-size: 50px;
+}
